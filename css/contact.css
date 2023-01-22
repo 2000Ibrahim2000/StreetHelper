@@ -1,0 +1,9 @@
+.base-layout .page-head {
+    padding: 100px 20px;
+    text-align: center;
+    position: relative;
+    /* background-image: url(../imgs/background-pattern.jpg); */
+    /* background-size: cover; */
+    /* opacity: .1;
+    isolation: isolate; */
+}
